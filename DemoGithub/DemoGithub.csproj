@@ -52,7 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="verynewabhi.cs" />
     <Compile Include="Sai.cs" />
-    <Compile Include="Vishal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
