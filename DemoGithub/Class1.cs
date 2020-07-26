@@ -9,7 +9,10 @@ namespace DemoGithub
     class Class1
     {
         public Class1()
-        { }
+        {
+            //added class
+            //added method
+        }
 
     }
 }
